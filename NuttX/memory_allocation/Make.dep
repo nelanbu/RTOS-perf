@@ -1,0 +1,43 @@
+memory_allocation.c.home.rob.rh.apps.examples.memory_allocation.o: \
+ memory_allocation.c /home/rob/rh/nuttx/include/nuttx/config.h \
+ /home/rob/rh/nuttx/include/nuttx/arch.h \
+ /home/rob/rh/nuttx/include/stdint.h \
+ /home/rob/rh/nuttx/include/nuttx/compiler.h \
+ /home/rob/rh/nuttx/include/arch/types.h \
+ /home/rob/rh/nuttx/include/arch/inttypes.h \
+ /home/rob/rh/nuttx/include/limits.h \
+ /home/rob/rh/nuttx/include/arch/limits.h \
+ /home/rob/rh/nuttx/include/stdbool.h \
+ /home/rob/rh/nuttx/include/arch/arch.h \
+ /home/rob/rh/nuttx/include/nuttx/pgalloc.h \
+ /home/rob/rh/nuttx/include/sys/types.h \
+ /home/rob/rh/nuttx/include/nuttx/addrenv.h \
+ /home/rob/rh/nuttx/include/nuttx/cache.h \
+ /home/rob/rh/nuttx/include/nuttx/sched.h \
+ /home/rob/rh/nuttx/include/sched.h /home/rob/rh/nuttx/include/strings.h \
+ /home/rob/rh/nuttx/include/string.h /home/rob/rh/nuttx/include/stddef.h \
+ /home/rob/rh/nuttx/include/time.h /home/rob/rh/nuttx/include/signal.h \
+ /home/rob/rh/nuttx/include/pthread.h /home/rob/rh/nuttx/include/unistd.h \
+ /home/rob/rh/nuttx/include/semaphore.h \
+ /home/rob/rh/nuttx/include/nuttx/queue.h \
+ /home/rob/rh/nuttx/include/nuttx/clock.h \
+ /home/rob/rh/nuttx/include/nuttx/irq.h \
+ /home/rob/rh/nuttx/include/arch/irq.h \
+ /home/rob/rh/nuttx/include/arch/chip/irq.h \
+ /home/rob/rh/nuttx/include/arch/stm32f7/stm32f76xx77xx_irq.h \
+ /home/rob/rh/nuttx/include/arch/armv7-m/irq.h \
+ /home/rob/rh/nuttx/include/arch/armv7-m/nvicpri.h \
+ /home/rob/rh/nuttx/include/arch/chip/chip.h \
+ /home/rob/rh/nuttx/include/nuttx/mutex.h \
+ /home/rob/rh/nuttx/include/errno.h /home/rob/rh/nuttx/include/assert.h \
+ /home/rob/rh/nuttx/include/nuttx/semaphore.h \
+ /home/rob/rh/nuttx/include/nuttx/wdog.h \
+ /home/rob/rh/nuttx/include/nuttx/mm/shm.h \
+ /home/rob/rh/nuttx/include/nuttx/mm/gran.h \
+ /home/rob/rh/nuttx/include/nuttx/fs/fs.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /home/rob/rh/nuttx/include/dirent.h \
+ /home/rob/rh/nuttx/include/nuttx/net/net.h \
+ /home/rob/rh/nuttx/include/stdio.h /home/rob/rh/nuttx/include/stdlib.h
+# No files specified for dependency generation
+# No files specified for dependency generation
